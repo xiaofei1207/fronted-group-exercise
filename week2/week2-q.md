@@ -12,10 +12,10 @@ _本题于`NodeJS`相关_
 
 答题：
 
-- [席媛媛](./week2-a-xyy.md)
-- [杨伯寅](./week2-a-yby.md)
-- [刘益昇](week2-a-lys.md)
-- [张小飞](./week2-a-zxf.md)
-- [王思宇](./week2-a-wsy.md)
-- [刘世豪](./week2-a-lsh.md)
-- [叶彤](./week2-a-yt.md)
+- [xyy](./week2-a-xyy.md)
+- [yby](./week2-a-yby.md)
+- [lys](week2-a-lys.md)
+- [zxf](./week2-a-zxf.md)
+- [wsy](./week2-a-wsy.md)
+- [lsh](./week2-a-lsh.md)
+- [yt](./week2-a-yt.md)
