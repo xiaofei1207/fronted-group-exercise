@@ -10,8 +10,8 @@
 
 ```javascript
 //此处编写js代码
-//CSS船只样例
-var {
+//CSS传值样例
+var style = {
 	（多级）选择器:{
 		display:block;
 		color:blue;
